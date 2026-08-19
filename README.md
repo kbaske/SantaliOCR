@@ -142,4 +142,3 @@ Compiled binaries will be available in the `dist/` directory.
 ## 📄 License
 
 Distributed under the **GNU General Public License v2.0 (GPL-2.0)**. See `LICENSE` for details.
-```
