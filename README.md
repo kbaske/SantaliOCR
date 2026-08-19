@@ -134,7 +134,7 @@ Compiled binaries will be available in the `dist/` directory.
 
 ### Supporting Organizations & Affiliates
 - **ᱥᱟᱱᱛᱟᱲ - The Santals** — Preservation and digital archiving of tribal literature.
-- **ᱛᱚᱞᱜᱤᱨᱟᱹ- Santali Lyrics** — Unicode typography and keyboard layout standards.
+- **ᱛᱚᱞᱜᱤᱨᱟᱹ - Santali Lyrics** — Unicode typography and keyboard layout standards.
 - **Santali Language Digitization Initiative** — Customized OCR model training and linguistic parsing.
 
 ---
