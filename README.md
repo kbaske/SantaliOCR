@@ -133,9 +133,9 @@ Compiled binaries will be available in the `dist/` directory.
 - **GitHub**: [@kbaske](https://github.com/kbaske)
 
 ### Supporting Organizations & Affiliates
-- **ᱥᱟᱱᱛᱟᱲ - The Santals** — Preservation and digital archiving of tribal literature.
-- **ᱛᱚᱞᱜᱤᱨᱟᱹ - Santali Lyrics** — Unicode typography and keyboard layout standards.
-- **Santali Language Digitization Initiative** — Customized OCR model training and linguistic parsing.
+- **ᱥᱟᱱᱛᱟᱲ - The Santals** — A web portal dedicated for Santals to represent & promote their teachings, cultures, traditions, rituals, religion, festivals, language, script & more.
+- **ᱛᱚᱞᱜᱤᱨᱟᱹ - Santali Lyrics** — is the widest collection of Santali Lyrics in its own script call Santali script (Ol Chiki).
+- **Santali Language Digitization Initiative** — Pioneers in customized tools for Santali language processing and digital preservation.
 
 ---
 
